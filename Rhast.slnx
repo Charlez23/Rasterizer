@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Rhast.vcxproj" Id="67307125-ced5-43de-bb5b-a51a0065cea2" />
+</Solution>
